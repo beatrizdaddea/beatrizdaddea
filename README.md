@@ -1,5 +1,8 @@
 ### Oii eu sou a Beatriz Daddea
 
+👩‍🎓 Cursando Ciências da Computação
+📚 Estudando: Python e JavaScript
+
 
 
 <div align="center">
