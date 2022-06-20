@@ -23,10 +23,8 @@
           
  
 </div>
-  
-  <div> 
-
-  </div> 
  
+ 
+  ![Snake animation](https://github.com/beatrizdaddea/beatrizdaddea/blob/output/github-contribution-grid-snake.svg)
   
   
