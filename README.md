@@ -2,14 +2,6 @@
 
 - 👩‍🎓 Cursando Ciências da Computação
 - 📚 Estudando: Python,Ruby,JavaScript e Java
-
-
-
-<div align="center">
-  <a href="https://github.com/beatrizdaddea">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizdaddea&theme=radical&show_icons=true"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizdaddea&layout=compact&langs_count=7&theme=radical"/>
-</div>
   
     
 <div style="display: inline_block" align="center"><br>
