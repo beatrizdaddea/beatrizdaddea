@@ -1,7 +1,7 @@
 ### Oii eu sou a Beatriz Daddea
 
 - 👩‍🎓 Cursando Ciências da Computação
-- 📚 Studing: Ruby,JavaScript,TypeScript
+- 📚 Studing: Ruby,JavaScript,TypeScript and Java
 
   <div align="center">
   <a href="https://github.com/beatrizdaddea">
