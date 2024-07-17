@@ -2,6 +2,7 @@
 
 - 👩‍🎓 Cursando Ciências da Computação
 - 📚 Studing: Ruby,JavaScript,TypeScript and Java
+- 💻 Front-End Developer at Quero Educação
 
   <div align="center">
   <a href="https://github.com/beatrizdaddea">
