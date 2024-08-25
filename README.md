@@ -1,24 +1,66 @@
-### Oii eu sou a Beatriz Daddea
+# 👋 Hello, I'm Beatriz Daddea!
 
-- 👩‍🎓 Cursando Ciências da Computação
-- 📚 Studing: Ruby,JavaScript,TypeScript and Java
-- 💻 Front-End Developer at Quero Educação
+**Software Developer Junior | Full-Stack Developer | Tech Enthusiast**
 
-  <div align="center">
+ <div align="center">
   <a href="https://github.com/beatrizdaddea">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizdaddea&theme=radical&show_icons=true"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizdaddea&layout=compact&langs_count=7&theme=radical"/>
-  </div>
-    
-<div style="display: inline_block" align="center"><br>
-  <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
- <img alt="Rails" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" /></a> </p>         
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizdaddea&theme=synthwave&show_icons=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizdaddea&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-   
-  
+    
+---
+
+## 🚀 About Me
+
+✨ I'm a **Computer Science student** with a passion for building robust, scalable, and responsive web applications. Currently, I'm working as a **Software Developer Junior**, where I constantly refine my skills and expand my knowledge in both front-end and back-end technologies.
+
+**pt-br:** Sou estudante de **Ciência da Computação** com uma paixão por desenvolver aplicações web robustas, escaláveis e responsivas. Atualmente, trabalho como Desenvolvedora Júnior, onde estou constantemente aprimorando minhas habilidades e expandindo meu conhecimento em tecnologias de front-end e back-end.
+
+👩‍💻 I'm a Full-Stack Developer Junior, customizing web applications using Vue, React, Nuxt, JavaScript, TypeScript, HTML, CSS, and Tailwind. I also work on backend projects using Elixir, Ruby on Rails, and Python, as well as DevOps tasks involving Docker, AWS, and CI/CD.
+
+**pt-br:** Trabalho como desenvolvedora Full-Stack, customizando aplicações web utilizando Vue, React, Nuxt, JavaScript, TypeScript, HTML, CSS e Tailwind. Também trabalho em projetos de backend com Elixir, Ruby on Rails e Python, além de tarefas de DevOps envolvendo Docker, AWS e CI/CD.
+
+✨ I’m currently studying advanced topics in JavaScript/TypeScript, Vue.js, React.js, Ruby on Rails, and DevOps practices like CI/CD and infrastructure management.
+
+**pt-br:** Estou estudando tópicos avançados em JavaScript/TypeScript, Vue.js, React.js, Ruby on Rails, e práticas de DevOps como CI/CD e gestão de infraestrutura.
+
+✨ I’m looking to collaborate on web development projects that involve both front-end and back-end technologies to further enhance my skills.
+
+**pt-br:** Estou procurando colaborar em projetos de desenvolvimento web que envolvam tanto tecnologias de front-end quanto de back-end para aprimorar ainda mais minhas habilidades técnicas.
+
+
+---
+
+## 🌱 I'm Currently Learning
+
+- **Front-end**: Exploring React advanced concepts.
+- **Backend Performance Optimization**: Learning techniques to optimize Ruby on Rails and Java applications.
+- **Spanish (Level A1)**: Improving my communication skills in Spanish.
+
+---
+
+## 🎓 Education & Certifications
+
+- **Bachelor's Degree in Computer Science** (In Progress)
+- **Initiation in Scientific Research**: Focused on studying mental health apps during the pandemic.
+- **English (Level B2)** | **Spanish (Level A1)**
+
+---
+
+## 💻 Technologies & Tools:
+### Main
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,vue,pinia,react,elixir,ruby,rails,python,nuxtjs,postgres,sqlite,mysql,npm,git,github,figma,linux,grafana,aws,docker,vscode,idea)](https://skillicons.dev)
+
+### Study
+  [![Studying](https://skillicons.dev/icons?i=kubernetes,java,opencv,mongodb)](https://skillicons.dev)
+
+---
+
+## 📫 Contact
+<div style="display: inline_block" align="left">
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-daddea/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatrizdaddea)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:beatrizchith@gmail.com)
+
+</div>
