@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-✨ I'm a **Computer Science student** with a passion for building robust, scalable, and responsive web applications. Currently, I'm working as a **Software Developer Junior**, where I constantly refine my skills and expand my knowledge in both front-end and back-end technologies.
+✨ I'm a **Computer Science student** with a passion for building robust, scalable, and responsive web applications.
 
-**pt-br:** Sou estudante de **Ciência da Computação** com uma paixão por desenvolver aplicações web robustas, escaláveis e responsivas. Atualmente, trabalho como Desenvolvedora Júnior, onde estou constantemente aprimorando minhas habilidades e expandindo meu conhecimento em tecnologias de front-end e back-end.
+**pt-br:** Sou estudante de **Ciência da Computação** com uma paixão por desenvolver aplicações web robustas, escaláveis e responsivas. 
 
 👩‍💻 I'm a Full-Stack Developer Junior, customizing web applications using Vue, React, Nuxt, JavaScript, TypeScript, HTML, CSS, and Tailwind. I also work on backend projects using Elixir, Ruby on Rails, and Python, as well as DevOps tasks involving Docker, AWS, and CI/CD.
 
