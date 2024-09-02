@@ -52,7 +52,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,vue,pinia,react,elixir,ruby,rails,python,nuxtjs,postgres,sqlite,mysql,npm,git,github,figma,linux,grafana,aws,docker,vscode,idea)](https://skillicons.dev)
 
 ### Study
-  [![Studying](https://skillicons.dev/icons?i=kubernetes,java,opencv,mongodb)](https://skillicons.dev)
+  [![Studying](https://skillicons.dev/icons?i=kubernetes,java,opencv,mongodb,go)](https://skillicons.dev)
 
 ---
 
