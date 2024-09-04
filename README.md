@@ -8,6 +8,8 @@
   <img src="https://streak-stats.demolab.com?user=beatrizdaddea&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+###
+
 ---
 
 <h3 align="left">🚀 About Me</h3>
@@ -15,6 +17,8 @@
 ###
 
 <p align="left">✨ I'm a Computer Science student with a passion for building robust, scalable, and responsive web applications.<br><br>pt-br: Sou estudante de Ciência da Computação com uma paixão por desenvolver aplicações web robustas, escaláveis e responsivas.<br><br>👩‍💻 I'm a Full-Stack Developer Junior, customizing web applications using Vue, React, Nuxt, JavaScript, TypeScript, HTML, CSS, and Tailwind. I also work on backend projects using Elixir, Ruby on Rails, and Python, as well as DevOps tasks involving Docker, AWS, and CI/CD.<br><br>pt-br: Trabalho como desenvolvedora Full-Stack, customizando aplicações web utilizando Vue, React, Nuxt, JavaScript, TypeScript, HTML, CSS e Tailwind. Também trabalho em projetos de backend com Elixir, Ruby on Rails e Python, além de tarefas de DevOps envolvendo Docker, AWS e CI/CD.<br><br>✨ I’m currently studying advanced topics in JavaScript/TypeScript, Vue.js, React.js, Ruby on Rails, and DevOps practices like CI/CD and infrastructure management.<br><br>pt-br: Estou estudando tópicos avançados em JavaScript/TypeScript, Vue.js, React.js, Ruby on Rails, e práticas de DevOps como CI/CD e gestão de infraestrutura.<br><br>✨ I’m looking to collaborate on web development projects that involve both front-end and back-end technologies to further enhance my skills.<br><br>pt-br: Estou procurando colaborar em projetos de desenvolvimento web que envolvam tanto tecnologias de front-end quanto de back-end para aprimorar ainda mais minhas habilidades técnicas.</p>
+
+###
 
 ---
 
@@ -82,7 +86,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
 </div>
 
----
+###
 
 <h3 align="left">Studying</h3>
 
@@ -98,6 +102,8 @@
   <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
 </div>
 
+###
+
 ---
 
 <h3 align="left">📫 Contact</h3>
@@ -105,8 +111,12 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="beatrizchith@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/beatriz-daddea/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
