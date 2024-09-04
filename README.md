@@ -100,12 +100,6 @@
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/beatrizdaddea/beatrizdaddea/output/snake.svg" alt="Snake animation" />
-
----
-
 <h3 align="left">📫 Contact</h3>
 
 ###
