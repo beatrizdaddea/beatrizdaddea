@@ -15,7 +15,31 @@
 
 ###
 
-<p align="left">✨ I'm a Computer Science student with a passion for building robust, scalable, and responsive web applications.<br><br>pt-br: Sou estudante de Ciência da Computação com uma paixão por desenvolver aplicações web robustas, escaláveis e responsivas.<br><br>👩‍💻 I'm a Full-Stack Developer Junior, customizing web applications using Vue, React, Nuxt, JavaScript, TypeScript, HTML, CSS, and Tailwind. I also work on backend projects using Elixir, Ruby on Rails, and Python, as well as DevOps tasks involving Docker, AWS, and CI/CD.<br><br>pt-br: Trabalho como desenvolvedora Full-Stack, customizando aplicações web utilizando Vue, React, Nuxt, JavaScript, TypeScript, HTML, CSS e Tailwind. Também trabalho em projetos de backend com Elixir, Ruby on Rails e Python, além de tarefas de DevOps envolvendo Docker, AWS e CI/CD.<br><br>✨ I’m currently studying advanced topics in JavaScript/TypeScript, Vue.js, React.js, Ruby on Rails, and DevOps practices like CI/CD and infrastructure management.<br><br>pt-br: Estou estudando tópicos avançados em JavaScript/TypeScript, Vue.js, React.js, Ruby on Rails, e práticas de DevOps como CI/CD e gestão de infraestrutura.<br><br>✨ I’m looking to collaborate on web development projects that involve both front-end and back-end technologies to further enhance my skills.<br><br>pt-br: Estou procurando colaborar em projetos de desenvolvimento web que envolvam tanto tecnologias de front-end quanto de back-end para aprimorar ainda mais minhas habilidades técnicas.</p>
+🚀 Minha Jornada | My Journey
+🇧🇷
+Comecei minha trajetória como estudante de Ciência da Computação apaixonada por resolver problemas com código. Hoje, já formada, mergulhei no mundo da Inteligência Artificial (pós-graduação na UTFPR) e atuo como Desenvolvedor Mobile e Full-Stack, construindo soluções que unem tecnologia e usabilidade.
+
+🇺🇸
+I started as a Computer Science student passionate about solving problems with code. Now graduated, I’ve dived into Artificial Intelligence (postgraduate at UTFPR) and work as a Mobile and Full-Stack Developer, building solutions that bridge technology and usability.
+
+🛠️ Tech Stack | Ferramentas
+📱 Mobile
+
+Híbrido/Hybrid: Ionic, Cordova, React Native
+
+Web Mobile: PWA, Responsive Design, Firebase
+
+🌐 Full-Stack
+
+Frontend: React, Vue, TypeScript, Tailwind
+
+Backend: Elixir, Ruby on Rails, Python (Flask/Django), Java 8, Spring Boot
+
+DevOps: Docker, AWS (EC2/S3), CI/CD (GitHub Actions)
+
+🤖 IA/Data Science
+
+Python (Pandas, TensorFlow, scikit-learn)
 
 ###
 
@@ -24,8 +48,8 @@
 <h3 align="left">Technologies & Tools:</h3>
 
 ###
-
 <div align="left">
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
@@ -36,11 +60,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  
+  <!-- Backend -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="45" alt="elixir logo"  />
   <img width="12" />
@@ -48,15 +79,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rails" height="45" alt="rails logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  
+  <!-- Data Science/AI -->
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="r logo"  />
+  
+  <!-- Databases -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="sqlite logo"  />
+  
+  <!-- DevOps/Tools -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
   <img width="12" />
@@ -79,23 +120,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
 </div>
 
 ###
 
-<h3 align="left">Studying</h3>
+<h3 align="left">Studying | Estudando</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
+  <!-- AI/Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="scikit-learn logo" />
   <img width="16" />
+  
+  <!-- Backend/DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="opencv logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
