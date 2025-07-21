@@ -16,6 +16,7 @@
 ###
 
 🚀 Minha Jornada | My Journey
+
 🇧🇷
 Comecei minha trajetória como estudante de Ciência da Computação apaixonada por resolver problemas com código. Hoje, já formada, mergulhei no mundo da Inteligência Artificial (pós-graduação na UTFPR) e atuo como Desenvolvedor Mobile e Full-Stack, construindo soluções que unem tecnologia e usabilidade.
 
