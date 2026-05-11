@@ -1,100 +1,134 @@
-<h2 align="left">Hi 👋! My name is Beatriz and I'm a Software Developer</h2>
+# 👋 Hi, I'm Beatriz Chieffi
+
+**Software Developer | Frontend • Mobile • Full Stack • AI Engineering**
+
+I'm a Software Developer based in São José dos Campos, Brazil, with experience building web and mobile applications, integrating REST APIs, working with production systems, and delivering cross-platform solutions for Android, iOS, and web.
+
+My main background is in **Frontend, Mobile and Full Stack development**, using technologies such as **React, Vue.js, Ionic, TypeScript, JavaScript, Java, Spring Boot, Ruby on Rails and Firebase**.
+
+I'm currently expanding my work into **Artificial Intelligence**, with a focus on **LLMs, RAG architectures, embeddings, AI agents, prompt engineering and evaluation methods**.
+
+---
+
+## 🚀 What I work with
+
+### Frontend & Mobile
+- React.js, Vue.js, TypeScript, JavaScript
+- Ionic Framework, React Native, Flutter
+- HTML, CSS, responsive interfaces
+- Mobile apps for Android and iOS
+- UI implementation from Figma prototypes
+
+### Backend & Full Stack
+- Java with Spring Boot
+- Ruby on Rails
+- REST API development and integration
+- MySQL, PostgreSQL and relational databases
+- Production support, debugging and system integration
+
+### AI Engineering
+- LLM-based applications
+- Retrieval-Augmented Generation — RAG
+- Embeddings and vector search concepts
+- AI agents and evaluation methods
+- Prompt engineering applied to real use cases
+
+### Tools & Practices
+- Git, GitHub, GitHub Actions
+- Docker
+- Firebase: Firestore, Authentication, Cloud Messaging
+- Jest, Playwright
+- Scrum, Kanban, Jira
+- Clean Code, SOLID and code review
+
+---
+
+## 💼 Professional focus
+
+I am interested in opportunities involving:
+
+- Frontend Development
+- Mobile Development
+- Full Stack Development
+- AI Engineering
+- LLM Applications
+- RAG-based systems
+- Developer roles with AI integration
+
+My goal is to combine my software engineering background with AI solutions that are useful, reliable and scalable.
+
+---
+
+## 🧠 Current studies
+
+I'm currently pursuing a postgraduate specialization in **Artificial Intelligence** at UTFPR, where I study topics such as:
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- RAG and LLM-based systems
+- AI agents and applied AI architectures
+
+I also participate in **BLIS**, a research group focused on AI applied to legal and security-related contexts.
+
+---
+
+## 📌 Featured project areas
+
+### AI & RAG Projects
+Projects focused on document analysis, retrieval-augmented generation, embeddings, prompt engineering and AI agents.
+
+### Web & Mobile Applications
+Applications built with React, Vue.js, Ionic and Firebase, including cross-platform solutions for web, Android and iOS.
+
+### Full Stack Systems
+REST API integrations, backend development, database queries, production issue analysis and automated tests.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### AI
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-5A45FF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/beatriz-daddea](https://www.linkedin.com/in/beatriz-daddea/)
+- GitHub: [github.com/beatrizchieffi](https://github.com/beatrizchieffi)
+- Email: beatrizchith@gmail.com
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beatrizdaddea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizdaddea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<p align="left">🚀 Minha Jornada | My Journey<br>🇧🇷 Sou graduada em Ciência da Computação, apaixonada por resolver problemas com código. Atualmente, curso pós-graduação em Inteligência Artificial na UTFPR e atuo como Desenvolvedora Mobile e Full-Stack, criando soluções que unem tecnologia, usabilidade e performance.<br><br>🇺🇸 I’m a Computer Science graduate passionate about solving problems through code. Currently pursuing a postgraduate degree in Artificial Intelligence at UTFPR, I work as a Mobile and Full-Stack Developer, building solutions that combine technology, usability, and performance.</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="30" alt="rspec logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="beatrizchith@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/beatriz-daddea/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer" />
