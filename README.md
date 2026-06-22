@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Beatriz Chieffi
 
-**Software Developer | Frontend • Mobile • Full Stack • AI Engineering**
+**Software Developer | Frontend • Mobile • Full Stack**
 
 I'm a Software Developer based in São José dos Campos, Brazil, with experience building web and mobile applications, integrating REST APIs, working with production systems, and delivering cross-platform solutions for Android, iOS, and web.
 
