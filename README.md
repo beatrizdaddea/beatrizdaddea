@@ -1,134 +1,93 @@
-# 👋 Hi, I'm Beatriz Chieffi
+# Beatriz Chieffi
 
-**Software Developer | Frontend • Mobile • Full Stack**
+**QA Automation | Quality Engineering | Software Development | API Testing**
 
-I'm a Software Developer based in São José dos Campos, Brazil, with experience building web and mobile applications, integrating REST APIs, working with production systems, and delivering cross-platform solutions for Android, iOS, and web.
+I'm a software developer based in Brazil, with professional experience in technology since 2022. My current work combines **QA automation and N3 software development/support** for production applications.
 
-My main background is in **Frontend, Mobile and Full Stack development**, using technologies such as **React, Vue.js, Ionic, TypeScript, JavaScript, Java, Spring Boot, Ruby on Rails and Firebase**.
+I design test scenarios, automate functional and regression checks, validate REST APIs and relational data, and investigate defects using logs, SQL, and code analysis. I also work on applied research involving **LLM evaluation and AI-agent security**.
 
-I'm currently expanding my work into **Artificial Intelligence**, with a focus on **LLMs, RAG architectures, embeddings, AI agents, prompt engineering and evaluation methods**.
+[LinkedIn](https://www.linkedin.com/in/beatriz-daddea) · [GitHub](https://github.com/beatrizdaddea) · [Email](mailto:beatrizchith@gmail.com)
 
----
+## Quality engineering in production
 
-## 🚀 What I work with
+My work involves complex municipal applications, including a permitting and licensing platform and a Geographic Information System (GIS).
 
-### Frontend & Mobile
-- React.js, Vue.js, TypeScript, JavaScript
-- Ionic Framework, React Native, Flutter
-- HTML, CSS, responsive interfaces
-- Mobile apps for Android and iOS
-- UI implementation from Figma prototypes
+| System | Automation scope | Tooling |
+| --- | --- | --- |
+| Permitting and licensing | **79 of approximately 81 eligible scenarios automated (~97.5%)**, in a system with **253 mapped functionalities** | Cypress, Allure Report |
+| Geographic Information System | **142 automated tests**, in a system with **400 mapped functionalities** | Cypress, Allure Report |
 
-### Backend & Full Stack
-- Java with Spring Boot
-- Ruby on Rails
-- REST API development and integration
-- MySQL, PostgreSQL and relational databases
-- Production support, debugging and system integration
+The permitting-system percentage refers **only to scenarios eligible for automation**, not all 253 mapped functionalities. External authentication, APIs, and municipal integrations constrain which end-to-end flows can be automated reliably. These figures describe the automation work in the systems I support, not individual ownership of every test.
 
-### AI Engineering
-- LLM-based applications
-- Retrieval-Augmented Generation — RAG
-- Embeddings and vector search concepts
-- AI agents and evaluation methods
-- Prompt engineering applied to real use cases
+My responsibilities also include functional, integration, regression, and E2E testing; requirements and acceptance-criteria analysis; REST API validation with Postman; SQL-based data checks; production troubleshooting; and collaboration on CI/CD quality checks.
 
-### Tools & Practices
-- Git, GitHub, GitHub Actions
-- Docker
-- Firebase: Firestore, Authentication, Cloud Messaging
-- Jest, Playwright
-- Scrum, Kanban, Jira
-- Clean Code, SOLID and code review
+## Featured projects
 
----
+### 01 — [Security QA: OWASP Juice Shop](https://github.com/beatrizdaddea/security-qa-juice-shop)
 
-## 💼 Professional focus
+A security-focused QA portfolio for a deliberately vulnerable web application, with **Cypress + TypeScript** tests for UI and APIs.
 
-I am interested in opportunities involving:
+- Bilingual test plan and **18 documented manual test cases**.
+- Page Object Model, test traceability, defect templates, and execution-report structure.
+- **Allure Report** integration and a local-only **OWASP ZAP** baseline workflow.
+- **Docker Compose** to run the target application in a controlled environment.
 
-- Frontend Development
-- Mobile Development
-- Full Stack Development
-- AI Engineering
-- LLM Applications
-- RAG-based systems
-- Developer roles with AI integration
+**Stack:** [Cypress](https://docs.cypress.io/), [TypeScript](https://www.typescriptlang.org/), [Allure Report](https://allurereport.org/), [Docker](https://docs.docker.com/), [OWASP ZAP](https://www.zaproxy.org/).
 
-My goal is to combine my software engineering background with AI solutions that are useful, reliable and scalable.
+**Status:** Test infrastructure and documentation are available. The repository's formal execution summary still needs final results; no pass rate is claimed here.
 
----
+### 02 — [TaskBoard: Backend, APIs & Test Automation](https://github.com/beatrizdaddea/task-board)
 
-## 🧠 Current studies
+A full-stack task management application with a **Django REST Framework API**, PostgreSQL, and a React frontend.
 
-I'm currently pursuing a postgraduate specialization in **Artificial Intelligence** at UTFPR, where I study topics such as:
+- JWT authentication with **HttpOnly cookies** and CSRF protection.
+- Resource-level access control for private and shared tasks.
+- Backend tests with **pytest** and critical browser flows with **Selenium**.
+- **GitHub Actions** checks for backend, frontend, API schema, and Docker Compose; the backend pipeline enforces a **90% minimum coverage threshold**.
+- OpenAPI documentation with **drf-spectacular**.
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- RAG and LLM-based systems
-- AI agents and applied AI architectures
+**Stack:** [Python](https://www.python.org/), [Django REST Framework](https://www.django-rest-framework.org/), [PostgreSQL](https://www.postgresql.org/), [React](https://react.dev/), [pytest](https://docs.pytest.org/), [Selenium](https://www.selenium.dev/), [GitHub Actions](https://docs.github.com/en/actions), [drf-spectacular](https://drf-spectacular.readthedocs.io/).
 
-I also participate in **BLIS**, a research group focused on AI applied to legal and security-related contexts.
+### 03 — [Agent Security Dojo](https://github.com/beatrizdaddea/Agent-Security-Dojo)
 
----
+A local, simulated environment for studying **indirect prompt injection** in tool-using AI agents.
 
-## 📌 Featured project areas
+- Vulnerable and defensive modes, with simulated email, calendar, and document tools.
+- Tool restrictions, untrusted-output handling, and guards on sensitive actions.
+- Reproducible scenarios and evaluation metrics for attack success, tool misuse, and legitimate-task utility.
+- Deterministic offline evaluation; optional LLM integration.
 
-### AI & RAG Projects
-Projects focused on document analysis, retrieval-augmented generation, embeddings, prompt engineering and AI agents.
+**Stack:** [Python](https://www.python.org/), [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview), [Pydantic](https://docs.pydantic.dev/latest/), [pytest](https://docs.pytest.org/).
 
-### Web & Mobile Applications
-Applications built with React, Vue.js, Ionic and Firebase, including cross-platform solutions for web, Android and iOS.
+## Engineering techniques
 
-### Full Stack Systems
-REST API integrations, backend development, database queries, production issue analysis and automated tests.
+- **Test design and traceability:** acceptance criteria, regression scenarios, reusable Page Objects, defect records, and Allure metadata.
+- **Layered verification:** UI, REST API, and database checks to catch different classes of defects.
+- **CI quality gates:** automated tests, coverage thresholds, linting, and API-schema validation.
+- **Session security:** cookie-based JWT authentication and CSRF safeguards; see MDN's [HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies) and [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch).
+- **Concurrent request handling:** a shared token-refresh operation for simultaneous requests; see MDN's [JavaScript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise).
+- **AI security evaluation:** controlled tool outputs, trust-boundary checks, defensive comparisons, and repeatable test cases.
 
----
+## Technical stack
 
-## 🛠️ Tech Stack
+| Area | Technologies and practices |
+| --- | --- |
+| **QA & automation** | Cypress, Cucumber/Gherkin, Allure Report, Postman, Jest, pytest, Selenium; Playwright (proofs of concept) |
+| **Languages** | JavaScript, TypeScript, Python, Java, SQL |
+| **Backend & data** | Java/Spring Boot, Django REST Framework, REST/JSON, PostgreSQL, MySQL |
+| **Delivery & diagnostics** | Git, GitHub Actions, Docker, CI/CD, SonarQube, production logs, root-cause analysis |
+| **AI & security** | LangGraph, Pydantic, LLM evaluation, prompt-injection testing, OWASP ZAP |
+| **Previous development work** | React, Vue.js, Ruby on Rails, cross-platform web/mobile applications |
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Education & research
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- **Postgraduate Specialization in Artificial Intelligence** — UTFPR, completed 2026.
+- **B.Sc. in Computer Science** — UNIP, completed 2024.
+- **Applied AI research** — LLM evaluation, agent workflows, and security testing.
+- **Languages:** Portuguese (native), English (B2).
 
-### Backend & Database
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## Contact
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### AI
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-5A45FF?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge)
-
----
-
-## 📫 Contact
-
-- LinkedIn: [linkedin.com/in/beatriz-daddea](https://www.linkedin.com/in/beatriz-daddea/)
-- GitHub: [github.com/beatrizchieffi](https://github.com/beatrizchieffi)
-- Email: beatrizchith@gmail.com
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer" />
+- **LinkedIn:** [linkedin.com/in/beatriz-daddea](https://www.linkedin.com/in/beatriz-daddea)
+- **GitHub:** [github.com/beatrizdaddea](https://github.com/beatrizdaddea)
+- **Email:** [beatrizchith@gmail.com](mailto:beatrizchith@gmail.com)
